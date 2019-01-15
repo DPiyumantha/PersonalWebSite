@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+}
+
+p{
+  color: #11999e;
+}
+.top-container{
+  text-align: center;
+  background-color: #e4f9f5;
+}
+
+.middle-container{
+  text-align:center;
+}
+
+.bottom-container{
+  margin: 0;
+  background-color:#07456f;
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+}
+.around-title-img1{
+  position:absolute;
+  padding-top: 75px;
+  right: 200px;
+}
+.around-title-img2{
+  position:absolute;
+  left: 275px;
+}
+
+.bot-link{
+  text-decoration: none;
+  padding: 10px;
+  color: #11999e;
+  margin-top: 10px;
+}
+
+.bot-link:hover{
+  color: white;
+}
+
+.copy{
+  color: white;
+  margin-top:50px;
+}
+
+.float-img-l{
+  float: left;
+}
+
+.float-img-r{
+  float: right;
+}
+
+.hr1{
+  color: grey;
+  border : none;
+  border-top: dotted;
+  width: 5%;
+  border-width: 10px;
+  align-self: center;
+  padding-bottom: 25px;
+}
+
+.main-image{
+  padding-top: 40px;
+}
+
+.mid-h{
+  padding: 40px 0;
+  margin-bottom: 70px;
+}
+
+.my-image{
+
+  margin: auto;
+  margin-top: 40px;
+  /* align-self: center; */
+}
+
+.p2{
+text-align:center;
+width: 40%;
+margin:auto;
+margin-top: 40px;
+margin-bottom: 40px;
+
+}
+
+.regular-img{
+  height: 150px;
+  width: 150px;
+}
+.regular-clr-h{
+  color: #07456f;
+}
+
+.regular-font{
+  font-family: 'Raleway', sans-serif;
+}
+
+.skills-img{
+
+  margin: 0 25px
+}
+
+.skills-div{
+  width: 40%;
+  margin:auto;
+  margin-bottom:100px;
+  display: block;
+}
+.school{
+  width: 30%;
+  height: 300px;
+  margin:auto;
+  margin-bottom:100px;
+  display: inline-block;
+}
+
+.skills-p{
+  text-align: justify;
+
+}
+
+
+.titl{
+   font-family: 'Dancing Script', cursive;
+}
+
+.titl1{
+   font-size: 90px;
+}
+
+.top-title{
+  /* display:inline-block; */
+  padding-top: 125px;
+  padding-bottom: 20px;
+}
